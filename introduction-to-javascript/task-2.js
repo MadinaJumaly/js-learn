@@ -9,5 +9,5 @@ console.log(numVar + numLet + numConst)
 let str = 'Boeing '
 let num = 747
 
-console.log(str+sum)
+console.log(str + num)
 
